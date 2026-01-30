@@ -95,6 +95,8 @@ Solutions: [lab 2 solution](./lab-02/Readme.md)
 
 * No credentials hardcoded in code
 
+Solution: [lab 3 solution](./lab-03/Readme.md)
+
 ---
 
 ## **PART 2: Core Terraform Concepts**
@@ -115,6 +117,8 @@ Solutions: [lab 2 solution](./lab-02/Readme.md)
 **Deliverable**
 
 * Environment-agnostic Terraform code
+
+Solution: [lab 4 solution](./lab-04/Readme.md)
 
 ---
 
