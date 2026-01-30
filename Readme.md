@@ -168,6 +168,8 @@ Solution: [lab 5 solution](./lab-05/Readme.md)
 
 * Reusable RG module
 
+Solution: [lab 6 solution](./lab-06/Readme.md)
+
 ---
 
 ### **Lab 7: Advanced Terraform Language**
@@ -185,6 +187,8 @@ Solution: [lab 5 solution](./lab-05/Readme.md)
 **Deliverable**
 
 * Parameterized networking resources
+
+Solution: [lab 7 solution](./lab-07/Readme.md)
 
 ---
 
