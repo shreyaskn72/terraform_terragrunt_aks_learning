@@ -1,1 +1,0 @@
-# terraform_terragrunt_aks_learning
