@@ -1,4 +1,4 @@
-variable "resource_group_name" {
+variable "rg_name" {
   type = string
 }
 
@@ -9,7 +9,6 @@ variable "location" {
 variable "environment" {
   type = string
 }
-
 
 variable "subnets" {
   type = map(object({
@@ -32,3 +31,5 @@ variable "nsg_rules" {
 variable "common_tags" {
   type = map(string)
 }
+
+

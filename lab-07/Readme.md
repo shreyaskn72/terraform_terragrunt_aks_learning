@@ -336,9 +336,7 @@ Once this clicks, AKS modules become easy.
 * NSGs
 * AKS-ready networking design
 
-If you want:
-
-* Say **“Lab 8 solution (deep explanation)”**
-* Or **“Refactor Lab 7 for AKS networking”**
+Full files explanation here:
+[lab-07/files_explanation.md](files_explanation.md)
 
 You’re officially past *intermediate Terraform* now 💪
