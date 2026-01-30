@@ -45,6 +45,8 @@ If you want to go with theoretical approach Please refer the [Terraform + Terrag
 * Screenshot or note showing tool versions
 * Git repo initialized
 
+Solution: [lab 1 solution](./lab-01/Readme.md)
+
 ---
 
 ### **Lab 2: First Terraform Deployment**
@@ -73,6 +75,8 @@ If you want to go with theoretical approach Please refer the [Terraform + Terrag
 * Resource Group visible in Azure Portal
 
 ---
+
+Solutions: [lab 2 solution](./lab-02/Readme.md)
 
 ### **Lab 3: Azure Authentication**
 
