@@ -327,9 +327,6 @@ You’re already thinking like a platform engineer 👏
 * Conditional logic
 * Dependency management
 
-If you want:
 
-* Say **“Lab 7 solution (deep explanation)”**
-* Or **“Review my lab-06 repo for improvements”**
 
 This repo structure is *solid* — nice work 💪

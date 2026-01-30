@@ -285,11 +285,10 @@ modules/
 
 ---
 
-If you want, next I can:
+Outcome:
 
-* 📅 Create a **30–45 day learning roadmap**
-* 🧪 Give **hands-on lab tasks for each chapter**
+
 * 🏗️ Design a **production-ready AKS Terraform + Terragrunt repo**
 * 🎯 Align this with **Azure DevOps / SRE interview expectations**
 
-Just tell me how deep you want to go 😄
+
