@@ -147,6 +147,7 @@ Solution: [lab 4 solution](./lab-04/Readme.md)
 
 * State stored in Azure Blob
 
+Solution: [lab 5 solution](./lab-05/Readme.md)
 ---
 
 ### **Lab 6: Terraform Modules**
