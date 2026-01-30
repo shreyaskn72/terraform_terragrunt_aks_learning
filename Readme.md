@@ -1,4 +1,3 @@
-If you want to go with theoretical approach Please refer the [Terraform + Terragrunt for AKS — Theoretical Guide](./theory.md)
 
 
 Below is a **hands-on lab plan mapped chapter-by-chapter**. Each lab is **small, practical, and cumulative**, so by the end you’ll have a **production-grade AKS platform** built the same way real teams do it.
@@ -8,6 +7,9 @@ Below is a **hands-on lab plan mapped chapter-by-chapter**. Each lab is **small,
 > * You have an Azure subscription
 > * Azure CLI + kubectl installed
 > * You’re working on Windows (works same on Linux)
+
+
+If you want to go with theoretical approach Please refer the [Terraform + Terragrunt for AKS — Theoretical Guide](./theory.md)
 
 ---
 
