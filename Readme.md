@@ -211,6 +211,9 @@ Solution: [lab 7 solution](./lab-07/Readme.md)
 
 * Network visible in Azure
 
+
+Solution: [lab 8 solution](./lab-08/Readme.md)
+
 ---
 
 ### **Lab 9: AKS Networking Model**
@@ -533,4 +536,3 @@ Solution: [lab 7 solution](./lab-07/Readme.md)
 * GitHub repo you can show in interviews 🚀
 
 ---
-
