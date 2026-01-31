@@ -235,6 +235,8 @@ Solution: [lab 8 solution](./lab-08/Readme.md)
 
 * Pods receive VNet IPs
 
+Solution: [lab 9 solution](./lab-09/Readme.md)
+
 ---
 
 ## **PART 4: Deploying AKS**
@@ -258,6 +260,8 @@ Solution: [lab 8 solution](./lab-08/Readme.md)
 **Deliverable**
 
 * `kubectl get nodes` works
+
+Solution: [lab 10 solution](./lab-10/Readme.md)
 
 ---
 
