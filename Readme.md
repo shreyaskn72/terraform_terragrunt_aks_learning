@@ -286,6 +286,8 @@ Solution: [lab 10 solution](./lab-10/Readme.md)
 
 * RBAC enforced
 
+Solution: [lab 11 solution](./lab-11)
+
 ---
 
 ### **Lab 12: AKS Storage & Add-ons**
