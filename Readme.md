@@ -45,7 +45,7 @@ If you want to go with theoretical approach Please refer the [Terraform + Terrag
 * Screenshot or note showing tool versions
 * Git repo initialized
 
-Solution: [lab 1 solution](./lab-01/Readme.md)
+Solution: [lab 1 solution](./lab-01)
 
 ---
 
@@ -76,7 +76,7 @@ Solution: [lab 1 solution](./lab-01/Readme.md)
 
 ---
 
-Solutions: [lab 2 solution](./lab-02/Readme.md)
+Solutions: [lab 2 solution](./lab-02)
 
 ### **Lab 3: Azure Authentication**
 
@@ -95,7 +95,7 @@ Solutions: [lab 2 solution](./lab-02/Readme.md)
 
 * No credentials hardcoded in code
 
-Solution: [lab 3 solution](./lab-03/Readme.md)
+Solution: [lab 3 solution](./lab-03)
 
 ---
 
@@ -118,7 +118,7 @@ Solution: [lab 3 solution](./lab-03/Readme.md)
 
 * Environment-agnostic Terraform code
 
-Solution: [lab 4 solution](./lab-04/Readme.md)
+Solution: [lab 4 solution](./lab-04)
 
 ---
 
@@ -147,7 +147,7 @@ Solution: [lab 4 solution](./lab-04/Readme.md)
 
 * State stored in Azure Blob
 
-Solution: [lab 5 solution](./lab-05/Readme.md)
+Solution: [lab 5 solution](./lab-05)
 ---
 
 ### **Lab 6: Terraform Modules**
@@ -168,7 +168,7 @@ Solution: [lab 5 solution](./lab-05/Readme.md)
 
 * Reusable RG module
 
-Solution: [lab 6 solution](./lab-06/Readme.md)
+Solution: [lab 6 solution](./lab-06)
 
 ---
 
@@ -188,7 +188,7 @@ Solution: [lab 6 solution](./lab-06/Readme.md)
 
 * Parameterized networking resources
 
-Solution: [lab 7 solution](./lab-07/Readme.md)
+Solution: [lab 7 solution](./lab-07)
 
 ---
 
@@ -212,7 +212,7 @@ Solution: [lab 7 solution](./lab-07/Readme.md)
 * Network visible in Azure
 
 
-Solution: [lab 8 solution](./lab-08/Readme.md)
+Solution: [lab 8 solution](./lab-08)
 
 ---
 
@@ -235,7 +235,7 @@ Solution: [lab 8 solution](./lab-08/Readme.md)
 
 * Pods receive VNet IPs
 
-Solution: [lab 9 solution](./lab-09/Readme.md)
+Solution: [lab 9 solution](./lab-09)
 
 ---
 
@@ -261,7 +261,7 @@ Solution: [lab 9 solution](./lab-09/Readme.md)
 
 * `kubectl get nodes` works
 
-Solution: [lab 10 solution](./lab-10/Readme.md)
+Solution: [lab 10 solution](./lab-10)
 
 ---
 
@@ -307,6 +307,8 @@ Solution: [lab 11 solution](./lab-11)
 
 * Persistent storage working
 
+Solution: [lab 12 solution](./lab-12)
+
 ---
 
 ### **Lab 13: Advanced AKS Config**
@@ -327,6 +329,8 @@ Solution: [lab 11 solution](./lab-11)
 **Deliverable**
 
 * Multi-pool AKS cluster
+
+Solution: [lab 13 solution](./lab-13)
 
 ---
 
@@ -354,6 +358,8 @@ Solution: [lab 11 solution](./lab-11)
 **Deliverable**
 
 * Same infra, less code
+
+Solution: [lab 14 solution](./lab-14)
 
 ---
 
@@ -540,5 +546,6 @@ Solution: [lab 11 solution](./lab-11)
 **Deliverable**
 
 * GitHub repo you can show in interviews 🚀
+
 
 ---
