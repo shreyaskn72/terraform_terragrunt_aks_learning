@@ -148,6 +148,7 @@ Solution: [lab 4 solution](./lab-04)
 * State stored in Azure Blob
 
 Solution: [lab 5 solution](./lab-05)
+
 ---
 
 ### **Lab 6: Terraform Modules**
@@ -377,6 +378,7 @@ Solution: [lab 14 solution](./lab-14)
 * State fully managed by Terragrunt
 
 Solution: [lab 15 solution](./lab-15)
+
 ---
 
 ### **Lab 16: Terragrunt Folder Structure**
@@ -399,6 +401,7 @@ Solution: [lab 15 solution](./lab-15)
 * Environment isolation
 
 Solution: [lab 16 solution](./lab-16)
+
 ---
 
 ### **Lab 17: Dependencies**
