@@ -394,3 +394,7 @@ Good Terraform:
 * safe
 
 ---
+
+
+
+You’ve basically completed a **senior-level AKS + Terraform curriculum** 🚀
