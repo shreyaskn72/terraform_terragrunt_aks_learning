@@ -321,4 +321,4 @@ This is **senior-level AKS knowledge**.
 
 ## private AKS traffic flow:
 
-![Private AKS Diagram](.private_aks.png)
+![Private AKS Diagram](private_aks.png)
