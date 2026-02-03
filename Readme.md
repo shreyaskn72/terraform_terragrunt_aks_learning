@@ -506,6 +506,8 @@ Solution with ```terragrunt run-all plan``` : [lab 20.2 solution](./lab-20.2)
 
 * Zero-downtime ops
 
+Solution: [lab 21 solution](./lab-21)
+
 ---
 
 ## **PART 7: Debugging**
@@ -527,6 +529,8 @@ Solution with ```terragrunt run-all plan``` : [lab 20.2 solution](./lab-20.2)
 **Deliverable**
 
 * Confidence in fixing issues
+
+Solution: [lab 22 solution](./lab-22)
 
 ---
 
