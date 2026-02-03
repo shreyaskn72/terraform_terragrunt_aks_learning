@@ -418,6 +418,8 @@ Solution: [lab 16 solution](./lab-16)
 
 * Zero manual wiring
 
+Solution: [lab 17 solution](./lab-17)
+
 ---
 
 ### **Lab 18: Multi-Environment AKS**
@@ -435,6 +437,10 @@ Solution: [lab 16 solution](./lab-16)
 **Deliverable**
 
 * Multiple AKS clusters safely managed
+
+
+Solution: [lab 18 solution](./lab-18)
+
 
 ---
 
@@ -457,6 +463,8 @@ Solution: [lab 16 solution](./lab-16)
 **Deliverable**
 
 * Private AKS validated
+
+Solution: [lab 19 solution](./lab-19)
 
 ---
 
