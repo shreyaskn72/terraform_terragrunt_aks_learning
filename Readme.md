@@ -550,6 +550,8 @@ Solution: [lab 22 solution](./lab-22)
 
 * Clean, maintainable code
 
+Solution: [lab 23 solution](./lab-23)
+
 ---
 
 ## **PART 8: Capstone**
