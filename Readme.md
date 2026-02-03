@@ -484,6 +484,8 @@ Solution: [lab 19 solution](./lab-19)
 
 * CI/CD pipeline working
 
+Solution: [lab 20 solution](./lab-20)
+
 ---
 
 ### **Lab 21: Day-2 Operations**
