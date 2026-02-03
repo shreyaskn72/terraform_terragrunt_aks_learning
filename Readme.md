@@ -376,6 +376,7 @@ Solution: [lab 14 solution](./lab-14)
 
 * State fully managed by Terragrunt
 
+Solution: [lab 15 solution](./lab-15)
 ---
 
 ### **Lab 16: Terragrunt Folder Structure**
@@ -397,6 +398,7 @@ Solution: [lab 14 solution](./lab-14)
 
 * Environment isolation
 
+Solution: [lab 16 solution](./lab-16)
 ---
 
 ### **Lab 17: Dependencies**
