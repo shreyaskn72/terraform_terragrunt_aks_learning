@@ -486,6 +486,10 @@ Solution: [lab 19 solution](./lab-19)
 
 Solution: [lab 20 solution](./lab-20)
 
+Solution with terragrunt: [lab 20.1 solution](./lab-20.1)
+
+Solution with ```terragrunt run-all plan``` : [lab 20.2 solution](./lab-20.2)
+
 ---
 
 ### **Lab 21: Day-2 Operations**

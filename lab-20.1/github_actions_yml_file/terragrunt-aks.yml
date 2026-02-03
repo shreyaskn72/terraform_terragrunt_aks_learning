@@ -1,0 +1,69 @@
+name: Terragrunt AKS CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+env:
+  ARM_CLIENT_ID: ${{ secrets.ARM_CLIENT_ID }}
+  ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
+  ARM_SUBSCRIPTION_ID: ${{ secrets.ARM_SUBSCRIPTION_ID }}
+  ARM_TENANT_ID: ${{ secrets.ARM_TENANT_ID }}
+
+jobs:
+  plan:
+    name: Terraform Plan (Dev)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.6.6
+
+      - name: Install Terragrunt
+        run: |
+          curl -Lo terragrunt https://github.com/gruntwork-io/terragrunt/releases/latest/download/terragrunt_linux_amd64
+          chmod +x terragrunt
+          sudo mv terragrunt /usr/local/bin/
+
+      - name: Terragrunt Init
+        working-directory: lab-20.1/live/dev/aks
+        run: terragrunt init
+
+      - name: Terragrunt Plan
+        working-directory: lab-20.1/live/dev/aks
+        run: terragrunt plan
+
+  apply:
+    name: Terraform Apply (Dev)
+    runs-on: ubuntu-latest
+    needs: plan
+    environment: dev
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Install Terragrunt
+        run: |
+          curl -Lo terragrunt https://github.com/gruntwork-io/terragrunt/releases/latest/download/terragrunt_linux_amd64
+          chmod +x terragrunt
+          sudo mv terragrunt /usr/local/bin/
+
+      - name: Terragrunt Init
+        working-directory: lab-20/live/dev/aks
+        run: terragrunt init
+
+      - name: Terragrunt Apply
+        working-directory: lab-20/live/dev/aks
+        run: terragrunt apply -auto-approve
+
